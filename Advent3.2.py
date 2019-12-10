@@ -42,5 +42,5 @@ for i in u:
     t = d[0][i] + d[1][i]
     if t < best:
         best = t
-        
+    
 print(best)
